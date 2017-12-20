@@ -1,5 +1,9 @@
 <?php
-
+// Donate to
+// BTC : 1BLsrDyoG5r1U82b1FKC9gLARntJZmxQRx
+// LTC : LVBNoytMn6CSDFDAefVJGwf4uHPZJzn29q
+// ETH : 0x6d08f4d413087472cdff9acaa89373768dadd932
+// Thank you
 class Bittrex
 {
     private $apikey;
